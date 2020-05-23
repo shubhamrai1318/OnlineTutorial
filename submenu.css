@@ -1,0 +1,205 @@
+ul
+{
+ list-style-type:none;
+ margin:0;
+ padding:0;
+ overflow:hidden;
+ background-color:#17252A;
+}
+li
+ {
+  float:left;
+  }
+
+li a,.dropbtn
+
+{
+ display:inline-block;
+ color:white;
+ text-align:center;
+ padding:14px 16px;
+ text-decoration:none;
+}
+li a:hover,.dropdown:hover.dropbtn
+{
+ background-color:red;
+}
+li .dropdown
+{
+  display:inline-block;
+}
+.dropdown-content
+{
+ display:none;
+ position:absolute;
+ background-color:#f9f9f9;
+ min-width:16px;
+ boxshadow:0px 8px 16px 0px
+ rgb a(0,0,0,0.2);
+ z-index:1;
+}
+.dropdown-content a
+{
+ color:black;
+ padding:12px 16px;
+text-decoration:none;
+ text-align:center;
+ display:block;
+}
+.dropdown-content a:hover
+{ 
+ backround-color:#f1f1f1;
+}
+.dropdown:hover .dropdown-content
+{
+ display:block;
+}
+.wrapper
+{
+ height:auto;
+ width:100%;
+ background-color:silver;
+}
+.head
+{
+ height:200px;
+ width:100%;
+ background-color:lightgray;
+ border:2px solid black;
+}
+.head1
+{
+ height:150px;
+ width:100%;
+ border:1px solid black;
+ margin:auto;
+ font-family:algerian;
+ font-size:110; letter-spacing:10px;
+ color:black;
+}
+.head2
+{
+ height:45px;
+ width:100%;
+ border:1px solid black;
+}
+.logo
+{
+height:150px; 
+width:20%;
+float:left;
+background-color::lightgray;
+float:right;
+border-radius:50%;
+
+}
+#div
+{
+ width:1200px;
+ overflow:none;
+ height:200px;
+ margin:auto;
+}
+.img-content
+{
+ float:left;
+ width:22%;
+ padding:5px;
+ height:120px;
+ background-color:white;
+ margin:10px;
+ border-radius:5px;
+ 
+}
+.img-content1
+{
+ float:left;
+ width:22%;
+ padding:5px;
+ height:120px;
+ background-color:lightgray;
+ margin:10px;
+ border-radius:5px;
+}
+.block4
+{
+height:350px; 
+width:95%;
+border:2px solid black;
+margin:20px;
+}
+.block5
+{
+height:200px; 
+width:100%;
+background-color:#def2f1;
+border:1px solid black;
+}
+.block5a
+{
+height:100px; 
+width:%;
+background-color:#def2f1;
+}
+.block5b
+{
+height:100px; 
+width:100%;
+}
+.block5bi
+{
+ height:50px;
+ width:30%;
+ background-color:lightgray;
+ float:left;
+}
+.block5bii
+{
+height:50px; 
+width:30%;
+background-color:lightgray;
+float:left;
+}
+.block5biii
+{
+height:50px; 
+width:30%;
+background-color:lightgray;
+float:left;
+}
+.footer
+{
+ height:298px;
+ width:100%;
+ background-color:gray;
+ margin-top:10px;
+}
+.footer1
+{
+height:300px;
+width:25%;
+float:left;
+}
+.footer2
+{
+height:300px;
+width:25%;
+float:left;
+}
+.footer3
+{
+height:300px;
+width:25%;
+float:left;
+}
+.footer4
+{
+height:300px;
+width:25%;
+float:left;
+}
+
+
+
+ 
+
